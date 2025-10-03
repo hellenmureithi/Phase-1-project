@@ -5,3 +5,15 @@ This project strives to explore the key factors influencing pricing, availabilit
 
 ## Business Problem
 Airbnb’s short-term rental market is highly competitive, with pricing, location, and guest experience driving success. Hosts often struggle with setting competitive prices and attracting guests, while travelers face inconsistent pricing, availability, and host reliability. Solving these challenges can boost host revenue, improve guest satisfaction, and strengthen overall platform performance.
+
+## Data understanding
+The data used in this project is a csv file named New York City Open Data from  kaggle website https://www.kaggle.com/datasets/dgomonov/new-york-city-airbnb-open-data.
+It contains 20 columns and 48879 rows after data cleaning and feature engineering which include variables such as:
++ Id
++ host name
++ neighborhood group
++ pricing
++ number of reviews
++ availability
+
+
