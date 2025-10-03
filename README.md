@@ -23,3 +23,21 @@ It contains 20 columns and 48879 rows after data cleaning and feature engineerin
 
 ## Data Analysis
 I was able to clean the data set by checking for missing values and duplicate values in the data set. I went a step further to feature engineer more columns in my dataset to help with further analysis and visualized various KPIs in Tableau https://prod-in-a.online.tableau.com/t/hellenmureithi-4caab9f9ed/authoring/Cleanedphase1project/Airbnblistingsperformance#2 to find the attached visualizations.
+
+## Conclusions.
+Airbnb demand is geographically concentrated in key neighborhoods, with Entire homes/apartments being the most popular room type.
+Affordability drives guest engagement, as lower-priced listings attract more reviews, though price by itself has limited predictive power for availability or booking activity.
+Seasonality plays a critical role, with demand and pricing peaking in December, August, and September, and weakening in May–July, particularly in June.
+
+## Recommendations
+### Neighborhood Strategy:
+Hosts in high-demand neighborhoods (e.g., Williamsburg, Harlem, East Village) should emphasize location advantages and maintain competitive pricing.Hosts in less popular neighborhoods could stand out by offering discounts, better amenities, or unique experiences.
+
+### Room Type Focus:
+Continue prioritizing Entire home/apartment listings, but for shared/private rooms, emphasize affordability and unique experiences to attract budget-conscious guests.
+
+### Dynamic Pricing & Seasonality:
+Increase prices during peak months (December, August, September) to maximize revenue.Offer discounts or flexible booking options in low-demand months (June, May, July) to improve occupancy.
+
+### Beyond Price:
+Since price has weak correlations with reviews and availability, hosts should also invest in high-quality photos, amenities, guest experience, and customer service to boost engagement.
