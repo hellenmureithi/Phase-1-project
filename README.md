@@ -1,0 +1,4 @@
+# Airbnb listing analysis project.
+## Project Overview
+Airbnb has become one of the leading platforms in the short term rental market, connecting millions of hosts and guests from different  parts of the country and also internationally. It has also proved to be a worthy competitor to hotel business chain since individuals now prefer Airbnbs due to their customer customization. With the larger amounts of data generated from listings, pricing, reviews, and availability, it provides an opportunity to analyze patterns and gain helpful insights to both the hosts and the customers.
+This project strives to explore the key factors influencing pricing, availability, customer preferences, and neighborhood trends. Additionally, the findings can provide the Airbnb business with a deeper understanding of market dynamics to enhance overall performance.
