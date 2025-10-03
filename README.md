@@ -21,4 +21,5 @@ It contains 20 columns and 48879 rows after data cleaning and feature engineerin
 + number of reviews
 + availability
 
-
+##Data Analysis
+I was able to clean the data set by checking for missing values and duplicate values in the data set. I went a step further to feature engineer more columns in my dataset to help with further analysis and visualized various KPIs in Tableau https://prod-in-a.online.tableau.com/t/hellenmureithi-4caab9f9ed/authoring/Cleanedphase1project/Airbnblistingsperformance#2 to find the attached visualizations.
